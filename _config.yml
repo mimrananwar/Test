@@ -1,15 +1,3 @@
-# Site settings
-title: "Imran's Portfolio"
-email: "i.anwar2004@gmail.com"
-description: "Helping businesses with automation, financial modeling, and analytics."
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://imrananwar.github.io" # Your GitHub Pages URL
-plugins:
-  - jekyll-feed
-# Social Links
-github_username: "mimrananwar"
-linkedin_username: "mimrananwar"
-
-
-# Build settings
-markdown: markdown
+title: "Imran Anwar Portfolio"
+description: "My new portfolio website"
+theme: minima  # You can change this to other built-in themes
